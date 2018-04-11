@@ -1,2 +1,3 @@
-https://github.com/JunFer1105/Ciencias-de-la-computacion-3.git
 # Ciencias-de-la-computacion-3
+Juan Fernando Arango 20141020068
+Joan Sebastian Diaz 20141020103
