@@ -1,0 +1,3 @@
+x + y * 3 5 + PARA SI SI 3 + - PARA x 
+PARA 5 + + SI SI <= < < > >= == != 
+SI X > 3 ENTONCES Y = X * Y
