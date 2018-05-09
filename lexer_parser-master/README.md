@@ -7,3 +7,5 @@ T → T ∗ F
 T → F
 F → num
 F → (E)
+#Integrantes Juan Fernando Arango 20141020068
+             Joan Sebastian Diaz  20141020103
